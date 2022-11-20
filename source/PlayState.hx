@@ -67,7 +67,7 @@ import openfl.filters.ShaderFilter;
 #end
 
 #if sys
-import sys.OpenFlAssets;
+import sys.FileSystem;
 import sys.io.File;
 #end
 
