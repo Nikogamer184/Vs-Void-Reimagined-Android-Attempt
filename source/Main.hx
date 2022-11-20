@@ -36,6 +36,7 @@ class Main extends Sprite
 	var skipSplash:Bool = true; // Whether to skip the flixel splash screen that appears in release mode.
 	var startFullscreen:Bool = false; // Whether to start the game in fullscreen on desktop targets
 	public static var fpsVar:FPS;
+	public static var game;
 
 	// You can pretty much ignore everything from here on - your code should go in your states.
 	
@@ -72,7 +73,8 @@ class Main extends Sprite
 
 	private function setupGame():Void
 	{
-		addChild(new FlxGame(0, 0, TitleState, 1, 60, 60, true, false));
+		game = new FlxGame(0, 0, TitleState, 1, 60, 60, true, false);
+		addChild(game);
 
 		fpsVar = new FPS(10, 3, 0xFFFFFF);
 		addChild(fpsVar);
