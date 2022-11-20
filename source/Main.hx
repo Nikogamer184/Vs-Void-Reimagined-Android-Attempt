@@ -73,7 +73,7 @@ class Main extends Sprite
 
 	private function setupGame():Void
 	{
-		game = new FlxGame(0, 0, TitleState, 1, 60, 60, true, false);
+		game = new FlxGame(0, 0, TitleState, 60, 60, true, false);
 		addChild(game);
 
 		fpsVar = new FPS(10, 3, 0xFFFFFF);
