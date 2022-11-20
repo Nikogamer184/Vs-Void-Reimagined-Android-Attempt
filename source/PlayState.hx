@@ -67,7 +67,7 @@ import openfl.filters.ShaderFilter;
 #end
 
 #if sys
-import sys.FileSystem;
+import sys.OpenFlAssets;
 import sys.io.File;
 #end
 
@@ -871,9 +871,9 @@ class PlayState extends MusicBeatState
 
 		for (folder in foldersToCheck)
 		{
-			if(FileSystem.exists(folder))
+			if(OpenFlAssets.exists(folder))
 			{
-				for (file in FileSystem.readDirectory(folder))
+				for (file in OpenFlAssets.readDirectory(folder))
 				{
 					if(file.endsWith('.lua') && !filesPushed.contains(file))
 					{
@@ -1201,9 +1201,9 @@ class PlayState extends MusicBeatState
 
 		for (folder in foldersToCheck)
 		{
-			if(FileSystem.exists(folder))
+			if(OpenFlAssets.exists(folder))
 			{
-				for (file in FileSystem.readDirectory(folder))
+				for (file in OpenFlAssets.readDirectory(folder))
 				{
 					if(file.endsWith('.lua') && !filesPushed.contains(file))
 					{
@@ -1379,19 +1379,19 @@ class PlayState extends MusicBeatState
 		
 		for (folder in foldersToCheck)
 		{
-			if(FileSystem.exists(folder))
+			if(OpenFlAssets.exists(folder))
 			{
 				var frag:String = folder + name + '.frag';
 				var vert:String = folder + name + '.vert';
 				var found:Bool = false;
-				if(FileSystem.exists(frag))
+				if(OpenFlAssets.exists(frag))
 				{
 					frag = File.getContent(frag);
 					found = true;
 				}
 				else frag = null;
 
-				if (FileSystem.exists(vert))
+				if (OpenFlAssets.exists(vert))
 				{
 					vert = File.getContent(vert);
 					found = true;
@@ -1500,12 +1500,12 @@ class PlayState extends MusicBeatState
 	{
 		var doPush:Bool = false;
 		var luaFile:String = 'characters/' + name + '.lua';
-		if(FileSystem.exists(Paths.modFolders(luaFile))) {
+		if(OpenFlAssets.exists(Paths.modFolders(luaFile))) {
 			luaFile = Paths.modFolders(luaFile);
 			doPush = true;
 		} else {
 			luaFile = Paths.getPreloadPath(luaFile);
-			if(FileSystem.exists(luaFile)) {
+			if(OpenFlAssets.exists(luaFile)) {
 				doPush = true;
 			}
 		}
@@ -1548,7 +1548,7 @@ class PlayState extends MusicBeatState
 
 		var filepath:String = Paths.video(name);
 		#if windows
-		if(!FileSystem.exists(filepath))
+		if(!OpenFlAssets.exists(filepath))
 		#else
 		if(!OpenFlAssets.exists(filepath))
 		#end
@@ -2391,7 +2391,7 @@ class PlayState extends MusicBeatState
 		var songName:String = Paths.formatToSongPath(SONG.song);
 		var file:String = Paths.json(songName + '/events');
 		#if windows
-		if (FileSystem.exists(Paths.modsJson(songName + '/events')) || FileSystem.exists(file)) {
+		if (OpenFlAssets.exists(Paths.modsJson(songName + '/events')) || OpenFlAssets.exists(file)) {
 		#else
 		if (OpenFlAssets.exists(file)) {
 		#end
