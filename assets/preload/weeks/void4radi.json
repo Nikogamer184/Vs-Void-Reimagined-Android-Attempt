@@ -1,0 +1,104 @@
+{
+	"storyName": "ok fuck you this is half radi port",
+	"difficulties": "eng, rus",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "void2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"keep out",
+			"radi",
+			[
+				66,
+				235,
+				53
+			]
+		],
+		[
+			"dark toxicity",
+			"radi2",
+			[
+				66,
+				155,
+				53
+			]
+		],
+		[
+			"last warning",
+			"radi2",
+			[
+				66,
+				155,
+				53
+			]
+		],
+		[
+			"radiohazard",
+			"radi3",
+			[
+				0,
+				55,
+				0
+			]
+		],
+		[
+			"curse of toxic",
+			"radi3",
+			[
+				0,
+				55,
+				0
+			]
+		],
+		[
+			"serenity",
+			"lofie",
+			[
+				255,
+				193,
+				253
+			]
+		],
+		[
+			"ebuillient",
+			"lofie",
+			[
+				255,
+				193,
+				253
+			]
+		],
+		[
+			"its been a while",
+			"lofie",
+			[
+				255,
+				193,
+				253
+			]
+		],
+		[
+			"contaminate",
+			"radi2",
+			[
+				66,
+				155,
+				53
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": true
+}

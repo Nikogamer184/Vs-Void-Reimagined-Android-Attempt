@@ -1,0 +1,50 @@
+{
+	"storyName": "no this is NOT humanised void from minecraft",
+	"difficulties": "eng, rus",
+	"hideFreeplay": false,
+	"weekBackground": "void",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"hehe",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"asteroids",
+			"void",
+			[
+				126,
+				13,
+				193
+			]
+		],
+		[
+			"weightless",
+			"void",
+			[
+				126,
+				13,
+				193
+			]
+		],
+		[
+			"event horizon",
+			"void",
+			[
+				126,
+				13,
+				193
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "first week",
+	"hiddenUntilUnlocked": false
+}

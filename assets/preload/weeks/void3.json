@@ -1,0 +1,131 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "eng, rus",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "void2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"singularity remix",
+			"newvoid-freeplay-fuckyou",
+			[
+				66,
+				13,
+				73
+			]
+		],
+		[
+			"security",
+			"theboys",
+			[
+				126,
+				13,
+				153
+			]
+		],
+		[
+			"stardust",
+			"star",
+			[
+				100,
+				100,
+				215
+			]
+		],
+		[
+			"stardust remix",
+			"star",
+			[
+				100,
+				100,
+				215
+			]
+		],
+		[
+			"main menu",
+			"void",
+			[
+				126,
+				13,
+				153
+			]
+		],
+		[
+			"close chuckle",
+			"star",
+			[
+				100,
+				100,
+				215
+			]
+		],
+		[
+			"system crash",
+			"voidcraze",
+			[
+				46,
+				13,
+				73
+			]
+		],
+		[
+			"donut",
+			"radi2",
+			[
+				66,
+				155,
+				53
+			]
+		],
+		[
+			"shiver",
+			"thosemf",
+			[
+				100,
+				100,
+				215
+			]
+		],
+		[
+			"abuse",
+			"vod",
+			[
+				126,
+				13,
+				153
+			]
+		],
+		[
+			"soda disco funk",
+			"star",
+			[
+				100,
+				100,
+				215
+			]
+		],
+		[
+			"town menace",
+			"goose",
+			[
+				255,
+				253,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Custom Week"
+}

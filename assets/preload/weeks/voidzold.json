@@ -1,0 +1,50 @@
+{
+	"storyName": "he is quite old alright, like 1 year for a mod",
+	"difficulties": "eng, rus",
+	"hideFreeplay": false,
+	"weekBackground": "voidold",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "void2",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"asteroids old",
+			"void-old",
+			[
+				126,
+				13,
+				193
+			]
+		],
+		[
+			"weightless old",
+			"void-old",
+			[
+				126,
+				13,
+				193
+			]
+		],
+		[
+			"event horizon old",
+			"void-old",
+			[
+				126,
+				13,
+				193
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "the very creation of him",
+	"hiddenUntilUnlocked": true
+}

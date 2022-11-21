@@ -1,0 +1,50 @@
+{
+	"storyName": "um actually you can't predict the update - :nerd:",
+	"difficulties": "eng, rus",
+	"hideFreeplay": false,
+	"weekBackground": "void2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "void",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"hehe2",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"ultraviolet",
+			"void",
+			[
+				106,
+				13,
+				153
+			]
+		],
+		[
+			"gravity",
+			"void-angy",
+			[
+				66,
+				13,
+				113
+			]
+		],
+		[
+			"singularity",
+			"voidohgodheisdangerous",
+			[
+				46,
+				0,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "second week",
+	"hiddenUntilUnlocked": false
+}
