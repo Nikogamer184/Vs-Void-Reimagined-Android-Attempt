@@ -1,0 +1,181 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				49
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Star Down Note Sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				49
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Star Up Note Sing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Star Down Note Play"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Star Right Note Play"
+		},
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Star Up Note Play"
+		},
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Star Left Note Play"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				49
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Star Idle",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Star Left Note Sing"
+		},
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Star Right Note Sing"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				-190
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "star weed gaming",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-200,
+				-200
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "VOID ARE YOU THE J ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-330
+			],
+			"anim": "firstDeath",
+			"fps": 1,
+			"name": "ANKLEBREAK",
+			"indices": [
+				0,
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"offsets": [
+				-200,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": true,
+			"name": "star weed gaming"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/star",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "star",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		123,
+		224
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 7.5,
+	"scale": 1
+}

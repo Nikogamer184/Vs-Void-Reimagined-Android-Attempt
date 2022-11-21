@@ -1,0 +1,108 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-490,
+				60
+			],
+			"anim": "blackhole",
+			"fps": 24,
+			"name": "Succ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				60
+			],
+			"anim": "defeat",
+			"fps": 12,
+			"name": "Defeat",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				60
+			],
+			"anim": "defeatend",
+			"fps": 12,
+			"name": "Defeat",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "stun",
+			"fps": 12,
+			"name": "Stunned",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-150,
+				60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "Scream"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-160,
+				60
+			],
+			"anim": "its time for school",
+			"fps": 12,
+			"name": "Wakey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/specials",
+	"position": [
+		100,
+		-50
+	],
+	"healthicon": "voidohgodheisdangerous",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		4,
+		68
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

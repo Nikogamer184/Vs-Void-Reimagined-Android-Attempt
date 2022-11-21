@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "goose left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-26
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "goose down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-317,
+				19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "goose right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-290,
+				103
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "goose up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "goose idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goose RUN",
+	"position": [
+		0,
+		510
+	],
+	"healthicon": "goose",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		80,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

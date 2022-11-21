@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				-140,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				-40,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [
+				-40,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				10,
+				12,
+				14
+			],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				2,
+				6,
+				14
+			],
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sr pelo moment",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "thosemf",
+	"flip_x": false,
+	"healthbar_colors": [
+		213,
+		126,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1
+}

@@ -1,0 +1,323 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-270,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "test",
+			"indices": [],
+			"name": "Void Windup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Void Up Note Chill",
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Void Down Note Chill",
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "Void Idle",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "you missed",
+			"fps": 24,
+			"name": "you missed hahaha",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4
+			],
+			"name": "Void Up Note Hype"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Void Down Note Hype",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-171,
+				50
+			],
+			"anim": "kid named",
+			"fps": 12,
+			"name": "dissapointment",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "Void Idle"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-alt-loop",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Void Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-520,
+				-10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Void Left Note Hype",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				20
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Void Right Note Hype",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Void Right Note Chill",
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Void Left Note Chill",
+			"indices": [
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3
+			]
+		},
+		{
+			"offsets": [
+				-171,
+				50
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "bro",
+			"indices": [],
+			"name": "dissapointment"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "the pose",
+			"indices": [],
+			"name": "you missed hahaha"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "Void Idle",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "fuck you",
+			"loop": true,
+			"name": "fuck you"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AC",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "voidohgodheisdangerous",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		4,
+		68
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

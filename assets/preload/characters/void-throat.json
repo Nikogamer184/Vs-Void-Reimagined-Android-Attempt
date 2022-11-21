@@ -1,0 +1,237 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Void Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Void Right Note Chill"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Void Down Note Chill"
+		},
+		{
+			"offsets": [
+				-168,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Void Left Note Chill"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Void Up Note Chill"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "flinchb",
+			"fps": 12,
+			"name": "Flinch B",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "mad",
+			"fps": 12,
+			"name": "Snap A",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "snap",
+			"fps": 12,
+			"name": "Snap B",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "flincha",
+			"fps": 24,
+			"name": "Flinch A",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				0,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/his-throat-bro",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "voidhurt",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		42,
+		166
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,531 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-50
+			],
+			"anim": "test",
+			"fps": 12,
+			"name": "Void Intro",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27,
+				27
+			]
+		},
+		{
+			"offsets": [
+				-170,
+				-51
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "thetie",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "Void Wink"
+		},
+		{
+			"offsets": [
+				-170,
+				-51
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "thewink",
+			"indices": [
+				8,
+				9,
+				10,
+				11
+			],
+			"name": "Void Wink"
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "-alt",
+			"indices": [],
+			"name": "Void Seethe"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-50
+			],
+			"anim": "thepose",
+			"fps": 12,
+			"name": "Void Pose0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-50
+			],
+			"anim": "thewink2",
+			"fps": 12,
+			"name": "Void PoseWink",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "bro",
+			"indices": [],
+			"name": "Void Confused"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			],
+			"name": "Void Idle"
+		},
+		{
+			"offsets": [
+				-200,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Void Right Note Chill"
+		},
+		{
+			"offsets": [
+				-300,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Void Right Note Hype"
+		},
+		{
+			"offsets": [
+				-180,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Void Down Note Chill"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Void Down Note Hype"
+		},
+		{
+			"offsets": [
+				-100,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Void Left Note Chill"
+		},
+		{
+			"offsets": [
+				-60,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Void Left Note Hype"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7
+			],
+			"name": "Void Up Note Chill"
+		},
+		{
+			"offsets": [
+				-130,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				5,
+				5,
+				6,
+				6,
+				7,
+				7,
+				8,
+				8,
+				9,
+				9
+			],
+			"name": "Void Up Note Hype"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 12,
+			"name": "Gone",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 12,
+			"name": "Dead",
+			"indices": [
+				14,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-170,
+				-50
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Void Confused",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "standinghere",
+			"fps": 24,
+			"name": "standing here i realize",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "standing here",
+			"indices": [],
+			"name": "standing here i realize"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "Dead",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15,
+				15
+			]
+		},
+		{
+			"offsets": [
+				-170,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pleasedonthaveskillissue",
+			"loop": true,
+			"name": "Void Confused"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heplayable",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "void",
+	"flip_x": true,
+	"healthbar_colors": [
+		116,
+		42,
+		166
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

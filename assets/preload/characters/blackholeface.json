@@ -1,0 +1,106 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "brr"
+		},
+		{
+			"offsets": [
+				-80,
+				50
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-80,
+				80
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-99,
+				10
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-80,
+				60
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				3,
+				3
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackhole-faces",
+	"position": [
+		680,
+		400
+	],
+	"healthicon": "voidohgodheisdangerous2",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		4,
+		68
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

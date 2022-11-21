@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				177,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Radi3_Right0"
+		},
+		{
+			"offsets": [
+				125,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Radi3_Left0"
+		},
+		{
+			"offsets": [
+				-61,
+				29
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Radi3_Up0"
+		},
+		{
+			"offsets": [
+				178,
+				-144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Radi3_Down0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Radi3_Idle0",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Radi3_Idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RadI_Phase3_Assets",
+	"position": [
+		-240,
+		-70
+	],
+	"healthicon": "radi3",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		255,
+		31
+	],
+	"camera_position": [
+		70,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

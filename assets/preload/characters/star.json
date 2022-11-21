@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Star Down Note Sing"
+		},
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Star Right Note Sing"
+		},
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Star Up Note Sing"
+		},
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Star Left Note Sing"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "Star Down Note Play",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "Star Right Note Play",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				49
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "Star Up Note Play",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-171,
+				49
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "Star Left Note Play",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-171,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "Star Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/star",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "star",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		123,
+		224
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 7.5,
+	"scale": 1
+}

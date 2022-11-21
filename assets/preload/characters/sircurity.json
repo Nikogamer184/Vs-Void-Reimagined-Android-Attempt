@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				199
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Accretions Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				199
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Accretions Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				199
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Accretions Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				200
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Accretions Left Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				199
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Accretions Right Note"
+		},
+		{
+			"offsets": [
+				-30,
+				199
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "coff",
+			"loop": false,
+			"name": "Accretions Cough"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/theboys",
+	"position": [
+		-150,
+		50
+	],
+	"healthicon": "theboys",
+	"flip_x": false,
+	"healthbar_colors": [
+		164,
+		45,
+		169
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

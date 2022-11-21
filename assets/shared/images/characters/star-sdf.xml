@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="star-sdf.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="2048" height="2048"/>
+	<SubTexture name="left0000" x="0" y="2048" width="2048" height="2048"/>
+	<SubTexture name="left0001" x="2048" y="2048" width="2048" height="2048"/>
+	<SubTexture name="down0000" x="0" y="4096" width="2048" height="2048"/>
+	<SubTexture name="down0001" x="2048" y="4096" width="2048" height="2048"/>
+	<SubTexture name="right0000" x="4096" y="2048" width="2048" height="2048"/>
+	<SubTexture name="right0001" x="6144" y="2048" width="2048" height="2048"/>
+	<SubTexture name="up0000" x="4096" y="4096" width="2048" height="2048"/>
+	<SubTexture name="up0001" x="6144" y="4096" width="2048" height="2048"/>
+</TextureAtlas>

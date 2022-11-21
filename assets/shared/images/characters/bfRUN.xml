@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfRUN.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFAnim_Idle0000" x="0" y="693" width="340" height="324"/>
+	<SubTexture name="BFAnim_Idle0002" x="340" y="693" width="340" height="324"/>
+	<SubTexture name="BFAnim_Idle0003" x="680" y="693" width="340" height="324"/>
+	<SubTexture name="BFAnim_Idle0004" x="1020" y="693" width="340" height="324"/>
+	<SubTexture name="BFAnim_Idle0005" x="1360" y="693" width="340" height="324"/>
+	<SubTexture name="BFAnim_Idle0006" x="1700" y="693" width="340" height="324"/>
+	<SubTexture name="BFAnim_Idle0007" x="2040" y="693" width="340" height="324"/>
+	<SubTexture name="BFAnim_Idle0008" x="0" y="1017" width="340" height="324"/>
+	<SubTexture name="BFAnim_Down0000" x="1698" y="0" width="358" height="333"/>
+	<SubTexture name="BFAnim_Down0001" x="1698" y="0" width="358" height="333"/>
+	<SubTexture name="BFAnim_Down0002" x="2056" y="0" width="358" height="333"/>
+	<SubTexture name="BFAnim_Down0003" x="2056" y="0" width="358" height="333"/>
+	<SubTexture name="BFAnim_Left0000" x="0" y="0" width="488" height="293"/>
+	<SubTexture name="BFAnim_Left0001" x="0" y="0" width="488" height="293"/>
+	<SubTexture name="BFAnim_Left0002" x="488" y="0" width="488" height="293"/>
+	<SubTexture name="BFAnim_Left0003" x="488" y="0" width="488" height="293"/>
+	<SubTexture name="BFAnim_Right0000" x="0" y="293" width="410" height="364"/>
+	<SubTexture name="BFAnim_Right0001" x="0" y="293" width="410" height="364"/>
+	<SubTexture name="BFAnim_Right0002" x="410" y="293" width="410" height="364"/>
+	<SubTexture name="BFAnim_Right0003" x="410" y="293" width="410" height="364"/>
+	<SubTexture name="BFAnim_Up0000" x="976" y="0" width="361" height="382"/>
+	<SubTexture name="BFAnim_Up0001" x="976" y="0" width="361" height="382"/>
+	<SubTexture name="BFAnim_Up0002" x="1337" y="0" width="361" height="382"/>
+	<SubTexture name="BFAnim_Up0003" x="1337" y="0" width="361" height="382"/>
+	<SubTexture name="youmissed0000" x="731" y="1047" width="337" height="361"/>
+	<SubTexture name="youmissed0001" x="1069" y="1047" width="337" height="361"/>
+</TextureAtlas>

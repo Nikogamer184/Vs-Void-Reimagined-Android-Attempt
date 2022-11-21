@@ -1,0 +1,168 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFAnim_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BFAnim_Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFAnim_Right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "BFAnim_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				43
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFAnim_Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "pleasedonthaveskillissue",
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"name": "youmissed"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				0,
+				0,
+				0,
+				0,
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "youmissed"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfRUN",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "noheadphones",
+	"flip_x": true,
+	"healthbar_colors": [
+		116,
+		42,
+		166
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

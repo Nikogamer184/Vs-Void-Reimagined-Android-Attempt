@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Void Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Void Down Note Chill",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Void Down Note Hype"
+		},
+		{
+			"offsets": [
+				-130,
+				90
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Void Up Note Hype"
+		},
+		{
+			"offsets": [
+				-170,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Void Up Note Chill"
+		},
+		{
+			"offsets": [
+				-100,
+				50
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Void Left Note Chill"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Void Right Note Chill",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-300,
+				30
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "Void Right Note Hype",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				50
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "Void Left Note Hype",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hecrazy",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "voidcraze",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		19,
+		107
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
