@@ -1,0 +1,303 @@
+{
+	"song": {
+		"player1": "void-playable-why",
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						0,
+						0,
+						0
+					],
+					[
+						88.2352941176471,
+						2,
+						1461.76470588235
+					],
+					[
+						1764.70588235294,
+						1,
+						176.470588235294
+					],
+					[
+						2117.64705882353,
+						2,
+						0
+					],
+					[
+						2294.11764705882,
+						3,
+						0
+					],
+					[
+						2470.58823529412,
+						0,
+						176.470588235294
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 85
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						2823.52941176471,
+						2,
+						1588.23529411765
+					],
+					[
+						4588.23529411765,
+						0,
+						0
+					],
+					[
+						4676.47058823529,
+						3,
+						176.470588235294
+					],
+					[
+						4941.17647058824,
+						2,
+						0
+					],
+					[
+						5117.64705882353,
+						1,
+						352.941176470588
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						5647.05882352941,
+						3,
+						1588.23529411765
+					],
+					[
+						7411.76470588235,
+						1,
+						176.470588235294
+					],
+					[
+						7941.17647058824,
+						3,
+						0
+					],
+					[
+						7764.70588235294,
+						0,
+						0
+					],
+					[
+						8117.64705882353,
+						2,
+						176.470588235294
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 85
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						8470.58823529412,
+						1,
+						529.411764705882
+					],
+					[
+						9176.47058823529,
+						1,
+						176.470588235294
+					],
+					[
+						9529.41176470588,
+						1,
+						176.470588235294
+					],
+					[
+						9882.35294117647,
+						2,
+						0
+					],
+					[
+						10235.2941176471,
+						0,
+						0
+					],
+					[
+						10588.2352941176,
+						3,
+						0
+					],
+					[
+						10941.1764705882,
+						1,
+						0
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 85
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						11294.1176470588,
+						0,
+						0
+					],
+					[
+						11470.5882352941,
+						2,
+						0
+					],
+					[
+						11647.0588235294,
+						0,
+						0
+					],
+					[
+						11823.5294117647,
+						3,
+						0
+					],
+					[
+						12176.4705882353,
+						1,
+						0
+					],
+					[
+						12352.9411764706,
+						2,
+						176.470588235294
+					],
+					[
+						12705.8823529412,
+						1,
+						1235.29411764706
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 85
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 85
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 85
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 85
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 170,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 170,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 170,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 170,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 170,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"events": [],
+		"player2": "bf-opponent-why",
+		"splashSkin": "noteSplashes",
+		"song": "Better Call Void",
+		"needsVoices": true,
+		"arrowSkin": "",
+		"stage": "voidwhy",
+		"validScore": true,
+		"bpm": 170,
+		"speed": 3
+	}
+}

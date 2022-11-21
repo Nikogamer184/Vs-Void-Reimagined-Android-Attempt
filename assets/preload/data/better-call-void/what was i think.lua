@@ -1,0 +1,13 @@
+function onCreatePost()
+	noteTweenX('oppo0', 4, 110, 0.0001, 'circInOut')
+	noteTweenX('oppo1', 5, 220, 0.0001, 'circInOut')
+	noteTweenX('oppo2', 6, 330, 0.0001, 'circInOut')
+	noteTweenX('oppo3', 7, 440, 0.0001, 'circInOut')
+		setProperty('scoreTxt.y', 800)
+		setProperty('iconP1.y', 1200)
+		setProperty('iconP2.y', 1200)
+		setProperty('healthBar.y', 1200)
+		setProperty('thehealth.y', 1200)
+		setProperty('defaultCamZoom', 0.7)
+		doTweenZoom('ghaks', 'camGame', 0.7, 0.00001, 'linear')
+end

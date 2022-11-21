@@ -1,0 +1,33 @@
+function onCreatePost()
+	noteTweenX('oppo0', 4, 110, 0.0001, 'circInOut')
+	noteTweenX('oppo1', 5, 220, 0.0001, 'circInOut')
+	noteTweenX('oppo2', 6, 330, 0.0001, 'circInOut')
+	noteTweenX('oppo3', 7, 440, 0.0001, 'circInOut')
+		setProperty('scoreTxt.y', 800)
+		setProperty('iconP1.y', 1200)
+		setProperty('iconP2.y', 1200)
+		setProperty('healthBar.y', 1200)
+		setProperty('thehealth.y', 1200)
+	setProperty('cum2.alpha', 1)
+	setProperty('therock2.alpha', 0)
+		setProperty('boyfriend.color', '000000')
+		setProperty('dad.color', '000000')
+		setProperty('gf.color', '000000')
+end
+function onStepHit()
+	if curStep == 64 then
+		setProperty('boyfriend.color', getColorFromHex('FFFFFF'))
+		setProperty('dad.color', getColorFromHex('FFFFFF'))
+		setProperty('gf.color', getColorFromHex('FFFFFF'))
+		setProperty('cum2.alpha', 0)
+	setProperty('therock2.alpha', 1)
+	setProperty('cum.alpha', 1)
+	doTweenAlpha('cumbye', 'cum', 0, 1, 'linear')
+	doTweenZoom('heappeared', 'camGame', 0.7, 0.000000001, 'linear')
+	setProperty('defaultCamZoom', 0.7)
+	end
+end
+function onSongStart()
+	setProperty('cum.alpha', 1)
+	doTweenAlpha('cumbye', 'cum', 0, 1, 'linear')
+end

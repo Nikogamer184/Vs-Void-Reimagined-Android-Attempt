@@ -1,0 +1,50 @@
+function onCreate()
+if isStoryMode then
+	makeAnimatedLuaSprite('box', 'dial/dialbox', -100, 200)
+	addAnimationByPrefix('box', 'hi',  'Text Box Appear', 12, false)
+	setScrollFactor('box', 0, 0)
+	scaleObject('box', 2, 2)
+	setProperty('box.alpha', 0)
+
+	
+	makeAnimatedLuaSprite('v', 'dial/v', 0, -100)
+	addAnimationByPrefix('v', 'norm',  'Void Normal instance', 12, false)
+	addAnimationByPrefix('v', 'smug',  'Void Smug instance', 12, false)
+	addAnimationByPrefix('v', 'umm',  'Void Umm instance', 12, false)
+	addAnimationByPrefix('v', 'wornout',  'Void Worn Out instance', 12, false)
+	addAnimationByPrefix('v', 'mad',  'Void Mad instance', 12, false)
+	addAnimationByPrefix('v', 'rage',  'Void Rage instance', 12, false)
+	addAnimationByPrefix('v', 'crazy',  'Void Crazy instance', 12, false)
+	addAnimationByPrefix('v', 'dark',  'Void Dark instance', 12, false)
+	setScrollFactor('v', 0, 0)
+	scaleObject('v', 1, 1)
+	setProperty('v.alpha', 0)
+
+	makeAnimatedLuaSprite('b', 'dial/bfandtheboys', 900, -100)
+	addAnimationByPrefix('b', 'norm',  'Bf Normal instance', 12, false)
+	addAnimationByPrefix('b', 'smug',  'Bf Smug instance', 12, false)
+	addAnimationByPrefix('b', 'umm',  'Bf Umm instance', 12, false)
+	addAnimationByPrefix('b', 'ready',  'Bf Ready instance', 12, false)
+	addAnimationByPrefix('b', 'boysnorm',  'Accretion Normal instance', 12, false)
+	addAnimationByPrefix('b', 'boysumm',  'Accretion Umm instance', 12, false)
+	setScrollFactor('b', 0, 0)
+	scaleObject('b', 1, 1)
+	setProperty('b.alpha', 0)
+	
+	makeLuaSprite('arrow', 'dial/arrow', 1250, 400)
+	setScrollFactor('arrow', 0, 0)
+	scaleObject('arrow', 0.5, 0.5)
+	setProperty('arrow.alpha', 0)
+	
+	addLuaSprite('v', true)
+	addLuaSprite('b', true)
+	addLuaSprite('arrow', true)
+	addLuaSprite('box', true)
+end
+end
+function onCreatePost()
+	addCharacterToList('bf-night', 'boyfriend')
+	addCharacterToList('void-crazy', 'dad')
+	addCharacterToList('void-crazy-dark', 'dad')
+	addCharacterToList('void-throat', 'dad')
+end
